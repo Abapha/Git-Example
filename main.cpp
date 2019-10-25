@@ -1,8 +1,7 @@
 #include <iostream>
 
 
-int main() {
-	cout << "Hello comrades!\n";
-	cout << endl;
+int main(int argc, char** argv) {
+	cout<<"This is cheating"<<endl;
 	return 0;
 }
